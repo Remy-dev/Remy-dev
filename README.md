@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rémy Manchon</h1>
 <h3 align="center">A passionate backend from France</h3>
 
-- 🔭 I’m currently working on **a series database**
+- 🔭 I’m currently working on **O'pré de chez vous project**
 
-- 🌱 I’m currently learning **Symfony 5**
+- 🌱 I’m currently learning **Symfony 5, React, Docker, kubernets**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
-- 💬 Ask me about **php, symfony**
+- 💬 Ask me about **php, symfony, and anything else**
 
 - 📫 How to reach me **remym2402@gmail.com**
 
