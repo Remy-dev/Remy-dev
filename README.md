@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rémy Manchon</h1>
 <h3 align="center">A passionate dev from France</h3>
 
-- 🔭 I’m currently working on **Snake (javascript front, symfony back)**
+- 🔭 Working on React 18 **
 
 - 👯 I’m looking to collaborate on **any open source project**
 
